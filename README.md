@@ -20,6 +20,8 @@ You can access the API by visiting the following endpoints:
 ![image](https://github.com/mohamedmabsout/control/assets/147514368/73dd5c43-0405-4e3e-9951-a071fbfca9af)
 ### DELETE articles
 ![image](https://github.com/mohamedmabsout/control/assets/147514368/67a12cc8-318f-4b3d-ad6e-d5c2773567e7)
+### listes des categories
+![image](https://github.com/mohamedmabsout/control/assets/147514368/e072db50-0c07-45c2-8e3c-041f40cf5914)
 ### Article par categorie
 ![image](https://github.com/mohamedmabsout/control/assets/147514368/0dfb74ec-07ef-4c17-a0f2-4ac6068eb04f)
 
